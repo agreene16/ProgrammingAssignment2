@@ -1,4 +1,4 @@
-#The first function creates a list that contains various functions, and the second function takes this input to solve or simply retrieve#
+#The first function creates a list that contains various functions within the context of a matrix input, and the second function takes this input to solve or simply retrieve#
 #an output based on the initial input x#
 
 ## makeCacheMatrix takes the input of matrix x and creates a list of functions that will operate within the environment x when
